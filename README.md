@@ -1,1 +1,3 @@
-# Order-System-master
+
+# 吉林大学大三下 qt企业实训大作业 
+**具体操作方法见README.pptx**
